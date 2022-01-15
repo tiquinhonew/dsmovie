@@ -4,13 +4,13 @@
   --color-primary: #4D41C0;
 }
 
-* {
+* {/*indica que todos os elementos ficarão com essas configs*/
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
 
 html, body {
-    background-color: #E5E5E5;
+    background-color: #e8e8e8;
 }
 
 a, a:hover {
